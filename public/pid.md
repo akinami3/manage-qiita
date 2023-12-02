@@ -14,6 +14,8 @@ slide: false
 ignorePublish: false
 ---
 # はじめに
+![Alt text](image.png)
+
 お疲れ様です，秋並です．
 
 本記事では、できるだけ図解しながらPythonでPID制御を実装します。なお、どういった流れで制御しているのかを知るために
